@@ -11,6 +11,30 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		F1C043783D15401596DB5F9E /* app_icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 758D191AC3BF4D9AA6BC480C /* app_icons.ttf */; };
+		E119CD35A6A64A42B194AC2C /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B12DA89661A46F39A5968D8 /* Poppins-Black.ttf */; };
+		7CADD4DC5C0A4D6B85D2EBA6 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0926A978929B431F8E878BEB /* Poppins-Bold.ttf */; };
+		D17C7F49B36F422390542452 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF01761B3FB248A0AE06FF4F /* Poppins-ExtraBold.ttf */; };
+		2DC505F8D4AF4FFF8FEECAC9 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 30B144948A50486D9E4F0128 /* Poppins-ExtraLight.ttf */; };
+		426A6B4FE34843429923F233 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3ACDE3A4EEF642F4959078E7 /* Poppins-Light.ttf */; };
+		BC06DF2F25474BD39B0F35D5 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CAF6885C00DC4E3F8D86A75C /* Poppins-Medium.ttf */; };
+		A549117EAD79438EBE5772E4 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CFDD800D984E4C0599B262F1 /* Poppins-Regular.ttf */; };
+		E1521E4AB07F41BE85AEF041 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1C224FDC40954908A4860398 /* Poppins-SemiBold.ttf */; };
+		55721EBCB2B74AC1B90C5D66 /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8DDED8A399654DDC9059B1BB /* Poppins-Thin.ttf */; };
+		F085EA932D9A49DF8C8EADAF /* amazonpay.png in Resources */ = {isa = PBXBuildFile; fileRef = F0FC85188199444C84FB8C6C /* amazonpay.png */; };
+		1FB67DD0569942FB9C362820 /* applepay.png in Resources */ = {isa = PBXBuildFile; fileRef = E315634429ED4C20BDDC5418 /* applepay.png */; };
+		2795F3473AC2494D94D55F45 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = D9815E0D04D14486876DA52E /* avatar.png */; };
+		C8AE5A3333BF4783BAC35C18 /* gpay.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D829C587302493CA53A71F3 /* gpay.png */; };
+		84F636C1809A4929ADE32B09 /* cheesecake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B09F2C429464FDDA04FA6C8 /* cheesecake.jpg */; };
+		B18B5C0B5CFC491F9908927E /* chocolate cake.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1DDB8606C4344BFBBF146E40 /* chocolate cake.jpeg */; };
+		EF35283F44034B21AF763A04 /* chocolate cake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E459C119F27045A79994C350 /* chocolate cake.jpg */; };
+		6DB5609DD60B4C20A1AF5A7A /* chocolate slice.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 301448D37C764CC8B1E6620C /* chocolate slice.jpeg */; };
+		24A5EFAB1D7445C89FD3F673 /* coconut slice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8CD7223DF4054BBC89CD2530 /* coconut slice.jpg */; };
+		C3BED3F8F65B4A718EAF87E5 /* fruit cake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B59A2E42EBD14BB0BCD8C8C0 /* fruit cake.jpg */; };
+		420DB4DE44344D23902B6E3C /* rainbow cake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CABFADE0C564AD3ABBA7E70 /* rainbow cake.jpg */; };
+		0ED6E65F098D403B83A19AFF /* raspberry cake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B562CC1FB5EB4C2FAA2C591B /* raspberry cake.jpg */; };
+		8F38722769034853ACB3062F /* redvelvet slice.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0A945644A54C47BA758A24 /* redvelvet slice.jpeg */; };
+		CBD6A21CF3E34052AF7A0CEC /* strawberry cake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7EBB6ED3BAF046BFAB7C8C90 /* strawberry cake.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +59,30 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = CakeShop/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CakeShop/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		758D191AC3BF4D9AA6BC480C /* app_icons.ttf */ = {isa = PBXFileReference; name = "app_icons.ttf"; path = "../src/assets/fonts/app_icons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3B12DA89661A46F39A5968D8 /* Poppins-Black.ttf */ = {isa = PBXFileReference; name = "Poppins-Black.ttf"; path = "../src/assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0926A978929B431F8E878BEB /* Poppins-Bold.ttf */ = {isa = PBXFileReference; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EF01761B3FB248A0AE06FF4F /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Poppins-ExtraBold.ttf"; path = "../src/assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		30B144948A50486D9E4F0128 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Poppins-ExtraLight.ttf"; path = "../src/assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3ACDE3A4EEF642F4959078E7 /* Poppins-Light.ttf */ = {isa = PBXFileReference; name = "Poppins-Light.ttf"; path = "../src/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CAF6885C00DC4E3F8D86A75C /* Poppins-Medium.ttf */ = {isa = PBXFileReference; name = "Poppins-Medium.ttf"; path = "../src/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CFDD800D984E4C0599B262F1 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1C224FDC40954908A4860398 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; name = "Poppins-SemiBold.ttf"; path = "../src/assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8DDED8A399654DDC9059B1BB /* Poppins-Thin.ttf */ = {isa = PBXFileReference; name = "Poppins-Thin.ttf"; path = "../src/assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F0FC85188199444C84FB8C6C /* amazonpay.png */ = {isa = PBXFileReference; name = "amazonpay.png"; path = "../src/assets/app_images/amazonpay.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E315634429ED4C20BDDC5418 /* applepay.png */ = {isa = PBXFileReference; name = "applepay.png"; path = "../src/assets/app_images/applepay.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D9815E0D04D14486876DA52E /* avatar.png */ = {isa = PBXFileReference; name = "avatar.png"; path = "../src/assets/app_images/avatar.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2D829C587302493CA53A71F3 /* gpay.png */ = {isa = PBXFileReference; name = "gpay.png"; path = "../src/assets/app_images/gpay.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9B09F2C429464FDDA04FA6C8 /* cheesecake.jpg */ = {isa = PBXFileReference; name = "cheesecake.jpg"; path = "../src/assets/cake_assets/cheesecake.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1DDB8606C4344BFBBF146E40 /* chocolate cake.jpeg */ = {isa = PBXFileReference; name = "chocolate cake.jpeg"; path = "../src/assets/cake_assets/chocolate cake.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E459C119F27045A79994C350 /* chocolate cake.jpg */ = {isa = PBXFileReference; name = "chocolate cake.jpg"; path = "../src/assets/cake_assets/chocolate cake.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		301448D37C764CC8B1E6620C /* chocolate slice.jpeg */ = {isa = PBXFileReference; name = "chocolate slice.jpeg"; path = "../src/assets/cake_assets/chocolate slice.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8CD7223DF4054BBC89CD2530 /* coconut slice.jpg */ = {isa = PBXFileReference; name = "coconut slice.jpg"; path = "../src/assets/cake_assets/coconut slice.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B59A2E42EBD14BB0BCD8C8C0 /* fruit cake.jpg */ = {isa = PBXFileReference; name = "fruit cake.jpg"; path = "../src/assets/cake_assets/fruit cake.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9CABFADE0C564AD3ABBA7E70 /* rainbow cake.jpg */ = {isa = PBXFileReference; name = "rainbow cake.jpg"; path = "../src/assets/cake_assets/rainbow cake.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B562CC1FB5EB4C2FAA2C591B /* raspberry cake.jpg */ = {isa = PBXFileReference; name = "raspberry cake.jpg"; path = "../src/assets/cake_assets/raspberry cake.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2F0A945644A54C47BA758A24 /* redvelvet slice.jpeg */ = {isa = PBXFileReference; name = "redvelvet slice.jpeg"; path = "../src/assets/cake_assets/redvelvet slice.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7EBB6ED3BAF046BFAB7C8C90 /* strawberry cake.jpg */ = {isa = PBXFileReference; name = "strawberry cake.jpg"; path = "../src/assets/cake_assets/strawberry cake.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +141,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				1BB55551A6C941D2B2667059 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -115,6 +164,38 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		1BB55551A6C941D2B2667059 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				758D191AC3BF4D9AA6BC480C /* app_icons.ttf */,
+				3B12DA89661A46F39A5968D8 /* Poppins-Black.ttf */,
+				0926A978929B431F8E878BEB /* Poppins-Bold.ttf */,
+				EF01761B3FB248A0AE06FF4F /* Poppins-ExtraBold.ttf */,
+				30B144948A50486D9E4F0128 /* Poppins-ExtraLight.ttf */,
+				3ACDE3A4EEF642F4959078E7 /* Poppins-Light.ttf */,
+				CAF6885C00DC4E3F8D86A75C /* Poppins-Medium.ttf */,
+				CFDD800D984E4C0599B262F1 /* Poppins-Regular.ttf */,
+				1C224FDC40954908A4860398 /* Poppins-SemiBold.ttf */,
+				8DDED8A399654DDC9059B1BB /* Poppins-Thin.ttf */,
+				F0FC85188199444C84FB8C6C /* amazonpay.png */,
+				E315634429ED4C20BDDC5418 /* applepay.png */,
+				D9815E0D04D14486876DA52E /* avatar.png */,
+				2D829C587302493CA53A71F3 /* gpay.png */,
+				9B09F2C429464FDDA04FA6C8 /* cheesecake.jpg */,
+				1DDB8606C4344BFBBF146E40 /* chocolate cake.jpeg */,
+				E459C119F27045A79994C350 /* chocolate cake.jpg */,
+				301448D37C764CC8B1E6620C /* chocolate slice.jpeg */,
+				8CD7223DF4054BBC89CD2530 /* coconut slice.jpg */,
+				B59A2E42EBD14BB0BCD8C8C0 /* fruit cake.jpg */,
+				9CABFADE0C564AD3ABBA7E70 /* rainbow cake.jpg */,
+				B562CC1FB5EB4C2FAA2C591B /* raspberry cake.jpg */,
+				2F0A945644A54C47BA758A24 /* redvelvet slice.jpeg */,
+				7EBB6ED3BAF046BFAB7C8C90 /* strawberry cake.jpg */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -185,6 +266,30 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				F1C043783D15401596DB5F9E /* app_icons.ttf in Resources */,
+				E119CD35A6A64A42B194AC2C /* Poppins-Black.ttf in Resources */,
+				7CADD4DC5C0A4D6B85D2EBA6 /* Poppins-Bold.ttf in Resources */,
+				D17C7F49B36F422390542452 /* Poppins-ExtraBold.ttf in Resources */,
+				2DC505F8D4AF4FFF8FEECAC9 /* Poppins-ExtraLight.ttf in Resources */,
+				426A6B4FE34843429923F233 /* Poppins-Light.ttf in Resources */,
+				BC06DF2F25474BD39B0F35D5 /* Poppins-Medium.ttf in Resources */,
+				A549117EAD79438EBE5772E4 /* Poppins-Regular.ttf in Resources */,
+				E1521E4AB07F41BE85AEF041 /* Poppins-SemiBold.ttf in Resources */,
+				55721EBCB2B74AC1B90C5D66 /* Poppins-Thin.ttf in Resources */,
+				F085EA932D9A49DF8C8EADAF /* amazonpay.png in Resources */,
+				1FB67DD0569942FB9C362820 /* applepay.png in Resources */,
+				2795F3473AC2494D94D55F45 /* avatar.png in Resources */,
+				C8AE5A3333BF4783BAC35C18 /* gpay.png in Resources */,
+				84F636C1809A4929ADE32B09 /* cheesecake.jpg in Resources */,
+				B18B5C0B5CFC491F9908927E /* chocolate cake.jpeg in Resources */,
+				EF35283F44034B21AF763A04 /* chocolate cake.jpg in Resources */,
+				6DB5609DD60B4C20A1AF5A7A /* chocolate slice.jpeg in Resources */,
+				24A5EFAB1D7445C89FD3F673 /* coconut slice.jpg in Resources */,
+				C3BED3F8F65B4A718EAF87E5 /* fruit cake.jpg in Resources */,
+				420DB4DE44344D23902B6E3C /* rainbow cake.jpg in Resources */,
+				0ED6E65F098D403B83A19AFF /* raspberry cake.jpg in Resources */,
+				8F38722769034853ACB3062F /* redvelvet slice.jpeg in Resources */,
+				CBD6A21CF3E34052AF7A0CEC /* strawberry cake.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
