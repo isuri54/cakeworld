@@ -5,10 +5,9 @@ import HomeScreen from '../screens/HomeScreen';
 import CartScreen from '../screens/CartScreen';
 import FavouritesScreen from '../screens/FavouritesScreen';
 import OrderHistoryScreen from '../screens/OrderHistoryScreen';
-import customicon from '../components/customicon';
 import { COLORS } from '../theme/theme';
 import { BlurView } from '@react-native-community/blur';
-import Customicon from '../components/customicon';
+import Customicon from '../components/CustomIcon';
 
 const Tab = createBottomTabNavigator();
 
@@ -34,7 +33,7 @@ const tabNavigator = () => {
                     name="home"
                     size={25}
                     color={
-                        focused ? COLORS.primaryOrangeHex: COLORS.primaryLightGreyHex
+                        focused ? COLORS.primaryButtonHex: COLORS.primaryLightGreyHex
                     }      
                 />
             ),
@@ -45,7 +44,7 @@ const tabNavigator = () => {
                     name="cart"
                     size={25}
                     color={
-                        focused ? COLORS.primaryOrangeHex: COLORS.primaryLightGreyHex
+                        focused ? COLORS.primaryButtonHex: COLORS.primaryLightGreyHex
                     }      
                 />
             ),
@@ -56,7 +55,7 @@ const tabNavigator = () => {
                     name="like"
                     size={25}
                     color={
-                        focused ? COLORS.primaryOrangeHex: COLORS.primaryLightGreyHex
+                        focused ? COLORS.primaryButtonHex: COLORS.primaryLightGreyHex
                     }      
                 />
             ),
@@ -67,7 +66,7 @@ const tabNavigator = () => {
                     name="bell"
                     size={25}
                     color={
-                        focused ? COLORS.primaryOrangeHex: COLORS.primaryLightGreyHex
+                        focused ? COLORS.primaryButtonHex: COLORS.primaryLightGreyHex
                     }      
                 />
             ),
@@ -80,9 +79,9 @@ export default tabNavigator
 
 const styles = StyleSheet.create({
     tabBarStyle: {
-        height: 60,
+        height: 50,
         position: 'absolute',
-        backgroundColor: COLORS.primaryBlackRGBA,
+        backgroundColor: COLORS.tabNavBg,
         borderTopWidth: 0,
         elevation: 0,
         borderTopColor: 'transparent',

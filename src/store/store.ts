@@ -9,7 +9,7 @@ export const useStore = create (
     persist(
         (set, get) => ({
             CakeList: CakeData,
-            Slicelist: SliceData,
+            SliceList: SliceData,
             CartPrice: 0,
             FavouritesList: [],
             CartList: [],
