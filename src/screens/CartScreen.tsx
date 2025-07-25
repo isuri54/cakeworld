@@ -71,7 +71,7 @@ const CartScreen = ({navigation, route}: any) => {
                       name={data.name}
                       imagelink_square={data.imagelink_square}
                       special_ingredient={data.special_ingredient}
-                      roasted={data.roasted}
+                      icing={data.roasted}
                       prices={data.prices}
                       type={data.type}
                       incrementCartItemQuantityHandler={
