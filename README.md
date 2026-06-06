@@ -50,6 +50,3 @@ npm run ios
 - `src/store/store.ts` — `zustand` store: cart/favorites/order history and business logic.
 - `src/theme/theme.ts` — design tokens used across components.
 
-
-
-If you want, I can now: add screenshots to this `README.md`, add CI, or open a small PR that documents the store API. Which would you like me to do next?
